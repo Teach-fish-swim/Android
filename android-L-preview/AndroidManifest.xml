@@ -7,7 +7,7 @@
     <uses-sdk
         android:minSdkVersion="L"
         android:targetSdkVersion="21" />
-
+<user-permition android:name="android.intend.INTELNET"
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
